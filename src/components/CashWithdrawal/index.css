@@ -1,0 +1,92 @@
+/* Write your CSS here */
+
+.bg {
+  background-color: #150b3e;
+  height: 500px;
+  width: 400px;
+  border: 1px #150b3e solid;
+  border-radius: 15px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.sarahbox {
+  display: flex;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.round {
+  background-color: #c7d2fe;
+  height: 50px;
+  width: 50px;
+  border: 1px #c7d2fe solid;
+  border-radius: 25px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sarahwill {
+  color: #d4d2db;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-top: 23px;
+  margin-left: 13px;
+}
+.s {
+  color: #7c3aed;
+  font-size: 20px;
+  font-weight: 500;
+}
+.moneybg {
+  display: flex;
+  justify-content: space-between;
+}
+.urmoney {
+  color: #585076;
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 35px;
+  margin-top: 35px;
+}
+.rs {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 32px;
+  margin-right: 35px;
+}
+.inrc {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.inr {
+  color: #585076;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-top: 0px;
+  margin-right: 35px;
+}
+.withdraw {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-weight: 800;
+  font-size: 25px;
+  margin-left: 35px;
+}
+.csum {
+  color: #585076;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-top: 0px;
+  margin-left: 35px;
+  font-size: 14px;
+}
+.btnc {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin-left: 0px;
+}
